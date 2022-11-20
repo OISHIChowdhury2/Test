@@ -1,7 +1,7 @@
 # Theoretical 
-1.Describe the layers of OSI Model and provide proper visualization for a packet traveling through the network. (5)
-a.Ex. Alice sends a message to Bob “Hello Bob”. How was this message delivered to Bob through the network?
-2.What is the difference between Synchronous and Asynchronous programming? How Node.js Handles asynchronous tasks? Provide proper visualization. (5)
+1.Describe the layers of OSI Model and provide proper visualization for a packet traveling through the network. (5)\
+a.Ex. Alice sends a message to Bob “Hello Bob”. How was this message delivered to Bob through the network?\
+2.What is the difference between Synchronous and Asynchronous programming? How Node.js Handles asynchronous tasks? Provide proper visualization. (5)\
 
 
 
