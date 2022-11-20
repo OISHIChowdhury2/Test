@@ -7,7 +7,7 @@ a.Ex. Alice sends a message to Bob “Hello Bob”. How was this message deliver
 
 
 
-#Practical
+# Practical
 ERA InfoTech LTD. is a renowned IT company in Bangladesh, and recently they are working with a multinational company Acme Corporation. Acme Corporation wanted to digitize and automate their supply chain management system so they signed a B2B partnership with ERA InfoTech LTD. After finalization of the initial user stories you are appointed to develop the MVP for this product. You are assigned to do below mentioned tasks using Node.js and Next.js. And you are advised to use the official boilerplates provided by your team lead.
 1.Develop a module for supplier registration with below mentioned information. (10)
 a.Company Name (Unique)
